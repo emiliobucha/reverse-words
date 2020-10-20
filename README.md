@@ -5,7 +5,7 @@
 ```sh
 curl http://127.0.0.1:8080/ -X POST -d '{"word":"PALC"}'
 {"reverse_word":"CLAP"}
-Aaae
+Aaaee
 ```
 
 **Get release**
